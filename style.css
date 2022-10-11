@@ -1,0 +1,25 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 250px 100px;
+}
+
+nav a {
+    font-size: 80px;
+    font-weight: 700;
+    color: #000;
+}
+
+nav form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    height: 450px;
+    margin-bottom: 50px;
+}
+
